@@ -10,6 +10,9 @@ Hi there! I am a **4th-year Biotechnology student** passionate about bioinformat
 - **Interdisciplinary integration**  
   Combining biotechnology, programming, and statistics to create innovative solutions.  
 
+### 💻 Currently working on  
+- Studying how genetic regulators modulate intercellular communication underlying neuronal vulnerability and survival in Parkinson’s disease models, using scRNA-seq data.
+
 ### 🛠️ Tools and Technologies  
 - **Programming languages**: R, Python (currently learning)  
 - **Bioinformatics**: RNA-Seq, differential expression analysis, genome assembly (getting started)  
