@@ -1,6 +1,6 @@
 ## 👩‍🔬 About Me  
 
-Hi there! I am a **4th-year Biotechnology student** passionate about bioinformatics and its applications in human health. I am constantly learning and developing skills to tackle complex biological problems through computational approaches.  
+Hi there! I am a **5th-year Biotechnology student** passionate about bioinformatics and its applications in human health. I am constantly learning and developing skills to tackle complex biological problems through computational approaches.  
 
 ### 🌟 My Interests  
 - **Transcriptomics and genomics applied to human health**  
