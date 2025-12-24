@@ -15,7 +15,7 @@ Hi there! I am a **5th-year Biotechnology student** passionate about bioinformat
 
 ### 🛠️ Tools and Technologies  
 - **Programming languages**: R, Python (currently learning)  
-- **Bioinformatics**: RNA-Seq, differential expression analysis, genome assembly (getting started)  
+- **Bioinformatics**: scRNA-Seq, differential expression analysis, etc
 - **Machine Learning**: Basic concepts with interest in supervised models and neural networks applied to biological data  
 - **Tools**: Git/GitHub, statistical analysis and data visualization tools  
 
